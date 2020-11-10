@@ -62,3 +62,4 @@ const randomMealDisplay = async() => {
     
 }
 randomMeal.addEventListener('click', randomMealDisplay);
+randomMealDisplay();
